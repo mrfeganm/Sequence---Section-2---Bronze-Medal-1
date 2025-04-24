@@ -5,9 +5,8 @@
 layout: default
 ---
 
-
 ## Sequence - Section 2 - Bronze Medal 1
-Re-arrange the blocks below so they print out...
+Re-arrange the blocks below.
 
 <div id="bronze-medal-challenge-say-my-name-sortableTrash" class="sortable-code"></div> 
 <div id="bronze-medal-challenge-say-my-name-sortable" class="sortable-code"></div> 
